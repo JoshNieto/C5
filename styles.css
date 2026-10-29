@@ -17,10 +17,18 @@ img {
    display: block;
 }
 
+/* Style rules for mobile viewport */
+
+
+/* HIde tab-desk class */
+.tab-desk {
+      display: none;
+}
+
 /* Style rules for header content */
 header {
    text-align: center;
-   font-size: 3em;
+   font-size: 1.5em;
    color: #373684;
 }
 
